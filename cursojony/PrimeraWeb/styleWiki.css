@@ -1,0 +1,44 @@
+ul li {
+  display: inline-block;
+}
+nav ul li a {
+  background-color: #78909c;
+  text-decoration: none;
+  padding: 20px;
+  color: white;
+}
+nav ul li a:hover {
+  color: black;
+}
+ul {
+  display: inline-block;
+  float: right;
+}
+.logo {
+  width: 100px;
+}
+section {
+  width: 80%;
+  margin: 0 auto;
+  min-height: 80vh;
+}
+footer {
+  background-color: #263238;
+  height: 100px;
+  color: white;
+}
+footer p {
+  text-align: right;
+  padding: 30px;
+}
+body {
+  margin: 0;
+}
+a {
+  color: inherit;
+}
+.ClaseDelDiv {
+  width: 48%;
+  float: left;
+  margin: 1%;
+}

@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(157, 116, 196);
+}
+ul :nth-of-type(2) {
+    background-color: coral;
+}
+#titulo{
+    font-size: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(198, 152, 241);
+    border-style: groove;
+    border-color: black;
+    display: inline
+}
+.subtitulo{
+    font-size: 55px;
+    color: #be6298;
+    font-weight: 900;
+    margin: 0px;
+    border-style: double;
+    border-color: blue;
+    display: inline
+}
+p{
+    font-size: 30px;
+    font-weight: 600
+}
+.rutas{
+    font-size: 35px;
+    font-weight: 700
+}
+h3{
+    font-size: 40x;
+    font-weight: 600;
+    color:rgb(192, 3, 3)
+}
+.divs{
+    background-color:rgb(235, 147, 235)
+}
+.divsheader{
+    background-color: rgb(195, 120, 195)
+}
+.divaside{
+    background-color: rgb(199, 117, 103)
+}
+.divfoother{
+    background-color: rgb(98, 45, 36)
+}

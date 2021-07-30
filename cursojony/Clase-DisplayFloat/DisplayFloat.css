@@ -1,0 +1,40 @@
+h1 {
+  background-color: chartreuse;
+  display: inline-block;
+}
+
+p {
+  background-color: coral;
+}
+
+a {
+  background-color: brown;
+}
+
+.card {
+  background: rgba(249, 188, 53, 0.5);
+  border: solid 1px grey;
+  width: 32.3%;
+  float: left;
+  height: 250px;
+  border-radius: 3px;
+  padding: 30px;
+  margin-left: 0.5%;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+img {
+  width: 50px;
+  height: 50px;
+  opacity: 0.8;
+}
+
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwLN2jHOC8n4Dgwm-CZEED-1B8G9fLWtPYzg&usqp=CAU");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
